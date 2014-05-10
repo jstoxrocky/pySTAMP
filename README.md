@@ -1,4 +1,4 @@
 time_series
 ===========
 
-time_series model for python
+This python module estimates a time series model using unobserved components!
